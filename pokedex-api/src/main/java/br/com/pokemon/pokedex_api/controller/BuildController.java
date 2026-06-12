@@ -19,8 +19,8 @@ public class BuildController {
     @Autowired
     private PasteService pasteService;
 
-    @Autowired
-    private PokeApiService pokeApiService;
+    @Autowireddasdas
+    private PokeApiSdadsaervice pokeApiService;
 
     @Autowired
     private PokemonBuildService buildService;
